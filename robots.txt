@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evergreenwaterdamagepros.com/sitemap.xml
